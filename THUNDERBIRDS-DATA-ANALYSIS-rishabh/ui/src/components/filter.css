@@ -1,0 +1,43 @@
+/* FilteredList.css */
+
+/* Style for the container div */
+div {
+    margin: 20px;
+  }
+  
+  /* Style for the filter buttons */
+  button {
+    padding: 10px 15px;
+    margin-right: 10px;
+    background-color: #22333b;
+    color: #fff;
+    border: none;
+    cursor: pointer;
+  }
+  
+  /* Style for the list of items */
+  ul {
+    list-style-type: none;
+    padding: 0;
+  }
+  
+  li {
+    margin-bottom: 10px;
+    font-size: 18px;
+  }
+  
+  /* Styling for the "Show All" button when it's active */
+  button[data-filter='all'] {
+    background-color: #333;
+  }
+  
+  /* Styling for the "Category A" button when it's active */
+  button[data-filter='A'] {
+    background-color: #f06;
+  }
+  
+  /* Styling for the "Category B" button when it's active */
+  button[data-filter='B'] {
+    background-color: #ff5722;
+  }
+  
