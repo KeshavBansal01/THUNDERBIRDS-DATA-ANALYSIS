@@ -1,3 +1,8 @@
+# Cleaned data of 2016
+https://docs.google.com/spreadsheets/d/1aA7-8h15JrpMB0Ku6H_pZAMsOrFqlRn7/edit?usp=drive_link&ouid=107369890417544142855&rtpof=true&sd=true
+
+
+
 # PPT:
 
 https://www.canva.com/design/DAFg3x_7_No/bP7T4Y3u-hZQ2BnPeeKepg/edit?utm_content=DAFg3x_7_No&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton
